@@ -1,0 +1,91 @@
+#+CATEGORY: calendario, evento, periodismodatos, datajournalism 
+#+TAGS: boletín, periodismodatos, tinyletter, 
+#+DESCRIPTION: Repositorio del Taller de Producción de Periodismo de Datos 2016
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolflow@gmail.com
+#+TITLE: Agenda de Open Knowledge España 2016
+#+DATE: [2015-12-16 mié 16:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+Este otoño el Taller de Producción de Periodismo de Datos vuelve con un objetivo: detectar patrones en el incumplimiento de los Derechos Humanos y convertirlos en historias que merezca la pena contar y visualizar.
+
+Convocatoria para colaboradores: [[http://medialab-prado.es/article/iv-taller-periodismo-datos-convocatoria-colaboradores][Hasta el 21 de octubre]]
+
+Según el [[https://www.es.amnesty.org/][informe anual de Amnistía Internacional]], el número de personas desplazadas y en busca de refugio en el mundo es el más elevado desde la Segunda Guerra Mundial. Vivimos una época de creciente inacción política mientras se abren brechas en los derechos humanos a nivel mundial.
+
+Pero las injusticias no siempre se producen a miles de kilómetros de distancia. La defensa de los Derechos Humanos empieza en nuestro entorno. En nuestro barrio y nuestra ciudad. En España, leyes como la Ley de Seguridad Ciudadana han recortado derechos fundamentales. Mientras tanto, la pobreza infantil y la dificultad de acceso a la vivienda siguen azotando a nuestra sociedad.
+
+En línea con ese enfoque local, en el año 2000 se firmó la Carta Europea de Salvaguarda de los Derechos Humanos de la Ciudad. Algunos ayuntamientos están impulsando nuevas políticas con arreglo a esas líneas de actuación. Por ejemplo, el Ayuntamiento de Madrid está recopilando datos para llevar a cabo un plan transversal de Derechos Humanos que afecte a todas sus políticas públicas.
+
+A través de dos sesiones que se celebrarán del 21 al 23 de octubre y del 9 al 11 de diciembre de 2016, los colaboradores participarán en la producción de alguno de los proyectos, trabajando con datos en equipos multidisciplinares que lleven a cabo buenas historias periodísticas.
+Los proyectos seleccionados se desarrollarán en dos talleres que contarán con la supervisión de Caelainn Barr (@caelainnbarr), periodista de datos de The Guardian, UK; Daniele Grasso (@danielegrasso) de la unidad de datos de El Confidencial y parte del equipo de investigación de los Papeles de Panamá; Leila Haddou (@LeilaHaddou), periodista de investigación del Financial Times; Isabel Inés (@ludita), diseñadora y UX de La Nave Nodriza; y la asistencia técnica de Fernando Blat (@ferblape), desarrollador y experto en transparencia activa en Populate y Beatriz Martínez (@maritrinez), experta en visualización de datos.
+ 
+* Colaboran:
+- El Confidencial
+- elDiario.es
+- Amnistía Internacional
+- [[https://porcausa.org/][porCausa]]
+- [[http://libertadinformacion.cc/][Plataforma en Defensa de la Libertad de Información]] (PDLI)
+
+* Coordinan
+
+- Adolfo Antón Bravo ([[https://twitter.com/adolflow][@adolflow]])
+- Rafael de las Cuevas ([[https://twitter.com/rafadelascuevas][@rafadelascuevas]]).
+
+* Participa!
+
+Cualquier persona puede participar en la convocatoria, en cualquiera de las fases:
+
+- Hasta el 12 de octubre se puede [[http://medialab-prado.es/article/iv-taller-periodismo-de-datos-convocatoria-de-proyectos][proponer un proyecto]] con la temática escogida. Se seleccionarán un máximo de ocho proyectos.
+    Hasta el 21 de octubre está abierta la [[http://medialab-prado.es/article/iv-taller-periodismo-datos-convocatoria-colaboradores][convocatoria de colaboradores]]. Cualquiera podrá sumarse al proyecto que estime oportuno. No es necesaria experiencia previa con tratamiento de datos. Sólo tener ganas de trabajar en equipo y aprender.
+
+* Agenda 
+ 
+Primera semana (del 21 al 23 de octubre) 
+ 
+** Viernes 21 de octubre
+
+- 10:30-11:00 - Presentación del taller de periodismo de datos por los coordinadores, Adolfo Antón y Rafael de las Cuevas. [Streaming en directo]
+- 11:00-11:45 - Taller de herramientas de periodismo de datos e investigación a cargo de Fernando Blat [Streaming en directo]
+- 11:45-12:00 - Descanso
+- 12:00-13:00 - Presentación de proyectos [Streaming en directo]
+- 13:00-14:00 - Presentación de colaboradores
+- 14:00-14:30 - Conformación de equipos
+- 14:30-16:00 - Descanso
+- 16:00-18:30 - Desarrollo de Proyectos
+- 18:30-19:30 - Taller de Daniele Grasso [Streaming en directo]
+
+** Sábado 22 de octubre
+
+- 10:00-11:00 - Desarrollo de proyectos
+- 11:00-12:00 - Taller de Leila Hadou. (Título y contenido por confirmar) [Streaming en directo]
+- 12:00-13:00 - Taller de Caelainn Barr “Storytelling with data” [Streaming en directo]
+- 13:00-14:15 - Taller de Isabel Inés sobre visualización y User Experience [Streaming en directo]
+- 14:15-15:30 - Descanso
+- 15:30-20:30 - Desarrollo de proyectos
+
+** Domingo 23 de octubre
+
+- 10:00 - 12:30 - Desarrollo de proyectos
+- 12:30 - 14:00 - Ronda de estado de los proyectos 
+
