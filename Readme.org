@@ -3,8 +3,8 @@
 #+DESCRIPTION: Repositorio del Taller de Producción de Periodismo de Datos 2016
 #+AUTHOR: Adolfo Antón Bravo
 #+EMAIL: adolflow@gmail.com
-#+TITLE: Agenda de Open Knowledge España 2016
-#+DATE: [2015-12-16 mié 16:00]
+#+TITLE: IV Taller de Producción de Periodismo de Datos 2016: Trazar los Derechos Humanos
+#+DATE: [2016-10-18 mar 10:00]
 #+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+TOC: headlines 2
 #+LATEX_HEADER: \usepackage[english]{babel}
